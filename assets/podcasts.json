@@ -1,0 +1,101 @@
+[
+    {
+        "name":"Animals of the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=15y0cCRxdB-9_NYwC3kWH6zGJLNgClVKX&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Animals_of_the_Teton_River.jpg",
+        "img_color": "0xFF4fa3ab",
+        "description": "The Teton River watershed is home to an incredibly long list of animals. The interdependence of the inhabitants along the river is important to recognize in order to support these species.",
+        "images": ["Animal_1.jpg","Animal_2.jpg","animal_3.jpg","animal_4.jpg","animal_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1e_LWEdToPs6jpcY4snBOHb3aqzmxcSkI&export=download",
+        "script":"Animal_podcast.txt"
+    },
+    {
+        "name":"Macroinvertebrates and the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=1zcIrfDOmFzpP7GfKZqbmiBCu8Zv1jaGm&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Macroinvertebrates_and_the_Teton_River_copy.jpg",
+        "img_color": "0xffecd715",
+        "description": "What is an indicator species? What does it indicate? You will learn about the aquatic food chain of the Teton River and how to keep this cycle pristine as you listen to this podcast from students who have explored the importance of macroinvertebrates.",
+        "images": ["macroinvertebrate_1.jpg", "macroinvertebrate_2.jpg","macroinvertebrate_3.jpg","macroinvertebrate_4.jpg", "Macroinvertebrate_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1NlR2Wu1tFiaEVQCcPcN621r_JmADe8rc&export=download",
+        "script":"Macroinvertebrate_Podcast.txt"
+    },
+    {
+        "name":"Plants and the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=1TC2Gg7CgXDEv7vXY6cwP2O8mJcFY-QFS&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Plants_and_the_Teton_River_copy_2.jpg",
+        "img_color": "0xFF59d337",
+        "description": "Various plants can be viewed up and down the Teton River corridor. Some of this botany is native and supports natural riparian growth. Others are introduced invasive species. What are the effects of non-native plants? Listen to find out.",
+        "images" :["plants.jpg", "plant_instruction.jpg", "plant_4.jpg", "plant_5.jpg", "plant_3.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1wPgtaGtGhy5ehBauZyzrQYapxZJ2JoRb&export=download",
+        "script":"Plant_Podcast.txt"
+    },
+    {
+        "name":"Pollution Solutions and the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=1_B5wLOP-QtykYNNJuo1ihPAbEkTSn_qk&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Pollution_Solutions_and_the_Teton_River_copy_3.jpg",
+        "img_color": "0xFF59d337",
+        "description": "The Teton River is a beautiful central geographical feature in Rexburg, Idaho. Students present ideas on how we can keep pollution to manageable limits as we enjoy this thriving riparian corridor.",
+        "images":["pollution_teton_river.jpg","pollution_2.jpg","pollution_3.jpg","pollution_4.jpg", "pollution_5.jpg" ],
+        "youTubeURL": "https://drive.google.com/uc?id=1f2-PSgWkDqvXyWs70hOqz31eU6i36IG6&export=download",
+        "script":"Pollution_Solution_Podcast.txt"
+    },
+    {
+        "name":"Friends of the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=18CjBdx-xjoLrpQDsF6PnaLLtVIS_VADm&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Friends_of_the_Teton_River.jpg",
+        "img_color": "0xFFd91d1d",
+        "description": "Friends support, encourage, and protect. Thanks to many different friends, the Teton River is a clean and thriving river in Idaho. Join the support of local and government groups and lend a hand to the Teton River.",
+        "images": ["friends_1.jpg", "friends_2.jpg", "friends_3.jpg", "friends_4.jpg", "friends_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1aoDqhQVsyB8zda--HElJEuotv_IXZclH&export=download",
+        "script":"Friends_Podcast.txt"
+    },
+    {
+        "name":"Why care about the Teton River" ,
+        "pod_url":"https://drive.google.com/uc?id=1w2OScE37bptlRE6hrQ-l3wZCa9XKOYXz&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Why_care_about _the_Teton_River.jpg",
+        "img_color": "0xFF7a37d3",
+        "description": "WHERE DOES IT COME FROM? With the average precipitation being 13.6 inches a year, you may ask yourself, “How does the variety of growth and rich appearance of Madison County get enough water?” Students interviewed professionals to find the answer.",
+        "images":["z_extra_1.jpg", "z_extra_2.jpg", "z_extra_3.jpg", "z_extra_4.jpg", "z_extra_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1l1BOnO7QRcfl9IXli7WZl1SP9XaNlzfN&export=download",
+        "script":"Why_Care_Podcast.txt"
+    },
+    {
+        "name":"History of the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=1uqE0v_bMJqL8JV_HDwF9AfLQyjxjMBy8&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"History_of_the_Teton_River.jpg",
+        "img_color": "0xFFf58e03",
+        "description": "As humans, we live in the realm of nature, surrounded by it and interacting with it. We are influenced by our environment and the environment by us. This podcast shares a history of stewardship along with the necessary balance of man-nature relationships.",
+        "images": ["history_1.jpg","history_2.jpg", "history_3.jpg", "history_4.jpg", "history_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1aLH3zf8eY8nSHbDossEaQBdgt-RxSc09&export=download",
+        "script":"History_Podcast.txt"
+    },
+    {
+        "name":"Microbes and the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=18gpEANBGNynp5hVhnaqyYyUivwzYOonK&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Microbes_and_the_Teton_River.jpg",
+        "img_color": "0xFFea23db",
+        "description": "It’s easy to understand and appreciate what we CAN see right before our very eyes, but what about the unseen? Life sustaining micro-organisms provide oxygen for all the organisms that follow. Listen and learn more about the microorganisms in and around the Teton river and why they are so important to us all.",
+        "images":["microorganism_1.jpg","microorganism_2.jpg", "microorganism_3.jpg", "microorganism_4.jpg", "microorganism_5.jpg" ],
+        "youTubeURL":"https://drive.google.com/uc?id=1q2ahYx9PzbKeRdTzU7lN55JLlmXdhMKT&export=download",
+        "script":"Microorganism_Podcast.txt"
+    },
+    {
+        "name":"Fish and the Teton River" ,
+        "pod_url": "https://drive.google.com/uc?id=14ElQ7aIV_faEkoOOdxI39dQpoamZkL5k&export=download",
+        "album": "Teton Podcasts",
+        "image_Url":"Fish_and_the_Teton_River.jpg",
+        "img_color": "0xFF4056d5",
+        "description": "What is the health of the fishery habitat of the Teton River and why is it important to the people of Rexburg? This podcast will introduce you to the divers fish habitat in the Teton River along with the interdependence of their ecosystem.",
+        "images":["fish_1.jpg","fish_2.jpg","fish_3.jpg","fish_5.jpg"],
+        "youTubeURL":"https://drive.google.com/uc?id=1u9VDcOZ4mbrEIoas-rfsG5Iv0Xg1Ncow&export=download",
+        "script":"Fish_Podcast.txt"
+    }
+]
